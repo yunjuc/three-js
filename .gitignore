@@ -1,0 +1,13 @@
+node_modules
+local_modules
+dist
+server/src/generated
+/server/coverage
+/client/coverage
+/db
+
+pnpm-debug.log
+
+.idea
+.vscode
+.DS_Store
